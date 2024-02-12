@@ -1,0 +1,30 @@
+/* Footer.css */
+.footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    position: fixed; /* Position the footer fixed */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure footer is above other content */
+  }
+  
+  .footer-container {
+    display: flex; /* Apply flexbox layout */
+    align-items: center; /* Center align vertically */
+  }
+  
+  .footer-container p {
+    margin-right: 10px; /* Add spacing between text and icons */
+  }
+  
+  .social-icons a {
+    color: #fff; /* White color for icons */
+    font-size: 24px; /* Adjust icon size */
+  }
+  
+  .social-icons a:not(:last-child) {
+    margin-right: 10px; /* Add margin between icons */
+  }
+  

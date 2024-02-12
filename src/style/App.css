@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  background-color: #111; /* Dark background color for the entire page */
+  color: #fff; /* White text color */
+  font-family: Consolas, monospace; /* Use Consolas font */
+
+}
+
+.app {
+  padding: 20px;
+}

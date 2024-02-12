@@ -1,0 +1,64 @@
+/* Header.css */
+.header-container {
+  display: flex; /* Use flexbox */
+  justify-content: space-between; /* Space out the child elements */
+  align-items: center; /* Align items vertically */
+  padding: 20px 0;
+  text-align: left; /* Align content to the left */
+}
+
+.header-logo,
+.header-nav {
+  display: inline-block; /* Display elements inline-block */
+  vertical-align: middle; /* Align elements vertically */
+}
+
+.header-logo {
+  font-size: 24px;
+  color: #fff; /* White text color */
+  margin-right: 20px; /* Add margin to the right of the logo */
+}
+
+.header-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header-nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.header-nav ul li:last-child {
+  margin-right: 0;
+}
+
+.header-nav ul li a {
+  text-decoration: none;
+  color: #fff; /* White text color */
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.header-nav ul li a:hover {
+  color: #007bff; /* Accent color on hover */
+}
+
+.header-line {
+  margin-top: -10px; /* Reduce the space between the line and the elements above it */
+  margin-right: -46px;
+  border: none; /* Remove default border */
+  background: linear-gradient(to right, #fff, rgba(128, 128, 128, 0)); /* Create gradient effect */
+  height: 2px; /* Set height of the line */
+}
+
+.header-nav ul li.active a {
+  /* Active link styles */
+  font-weight: bold;
+  color: #8cc0f8 !important; /* Change text color to blue for active links */
+}
+
+.clear{
+  color: #ffffff00;
+}
