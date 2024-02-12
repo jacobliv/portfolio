@@ -6,7 +6,7 @@ html, body {
 
 }
 body {
-    background-image: linear-gradient(to bottom, rgb(22, 22, 22), rgb(55, 55, 55));
+    background-image: linear-gradient(to bottom, #161616, #494949);
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
