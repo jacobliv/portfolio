@@ -1,33 +1,42 @@
 [
-    {
-        "name":"LLM Unit Test Generator",
-        "link":"https://github.com/Qarik-Group/LLM-Test-Generator",
-        "shortDescription":"",
-        "description":""
-
-    },
-    {
-        "name":"Supernova",
-        "link":"https://jakeliv.itch.io/supernova",
-        "shortDescription":"",
-        "description":""
-
-
-    },
-    {
-        "name":"Zombie Pizza",
-        "link":"https://jakeliv.itch.io/zombie-pizza",
-        "shortDescription":"",
-        "description":""
-
-
-    },
-    {
-        "name":"TEMPLATE",
-        "link":"",
-        "shortDescription":"",
-        "description":""
-        
-    }
-
+  {
+    "name": "LLM Unit Test Generator",
+    "link": "https://github.com/Qarik-Group/LLM-Test-Generator",
+    "linkIcon": "github",
+    "shortDescription": "A python based tool using the LLM to generate unit tests for java code.",
+    "header": "",
+    "description": "We all know that having fault resistent code is important to having a stable production environment. Throughout my time as a software engineer and in the quality assurance space, I found that engineers often struggle to write unit tests for their code. Testing can also be a time consuming process. Qarik Group, the company I work for, saw this as a space that we could potentially assist our clients in, and I was tasked in creating a proof of concept.\n This tool is designed to help engineers generate unit tests for their code using a LLM. The tool takes a repository and directory as input and generates unit tests for the code in the directory. It then parses the code and identifies classes, methods, and fields. All of this data is then fed into the LLM as context.",
+    "scaleToFit": "true",
+    "tools": ["GCP", "Vertex AI", "Chat Bison"],
+    "languages": ["Python", "Java"]
+  },
+  {
+    "name": "Supernova",
+    "link": "https://jakeliv.itch.io/supernova",
+    "linkIcon": "itchio",
+    "shortDescription": "A visual novel game-jam game about the last few days of a gas station employee on one of Mar's moons.",
+    "description": "",
+    "tools": ["Unity", "Krita"],
+    "languages": ["C#"]
+  },
+  {
+    "name": "Zombie Pizza",
+    "link": "https://jakeliv.itch.io/zombie-pizza",
+    "linkIcon": "itchio",
+    "shortDescription": "A visual novel game-jam game about a pizza delivery driver who comes back to find his killer",
+    "description": "",
+    "tools": ["Unity", "Krita"],
+    "languages": ["C#"]
+  },
+  {
+    "name": "TEMPLATE",
+    "link": "",
+    "linkIcon": "",
+    "shortDescription": "",
+    "header": "",
+    "description": "",
+    "scaleToFit": "true",
+    "tools": [],
+    "languages": []
+  }
 ]
