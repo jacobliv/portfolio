@@ -1,33 +1,107 @@
 [
-    {
-        "name":"LLM Unit Test Generator",
-        "link":"https://github.com/Qarik-Group/LLM-Test-Generator",
-        "shortDescription":"",
-        "description":""
+  {
+    "name": "LLM Unit Test Generator",
+    "link": "https://github.com/Qarik-Group/LLM-Test-Generator",
+    "linkIcon": "github",
+    "shortDescription": "A python based tool using the LLM to generate unit tests for java code.",
+    "header": "",
+    "description": "We all know that having fault resistent code is important to having a stable production environment. Throughout my time as a software engineer and in the quality assurance space, I found that engineers often struggle to write unit tests for their code. Testing can also be a time consuming process. Qarik Group, the company I work for, saw this as a space that we could potentially assist our clients in, and I was tasked in creating a proof of concept.\n\n This tool is designed to help engineers generate unit tests for their code using a LLM. The tool takes a repository and directory as input and generates unit tests for the code in the directory. It then parses the code and identifies classes, methods, and fields. All of this data is then fed into the LLM as context.",
 
+    "points": [
+      "Automatically generate Java unit tests for code",
+      "Seamless integration with LLM",
+      "Improve code coverage and fault resistance"
+    ],
+    "scaleToFit": "true",
+    "project_details": {
+      "tools": ["GCP", "Vertex AI", "Chat Bison"],
+      "languages": ["Python", "Java"],
+      "role": "Software Engineer",
+      "team_size": 1
     },
-    {
-        "name":"Supernova",
-        "link":"https://jakeliv.itch.io/supernova",
-        "shortDescription":"",
-        "description":""
-
-
-    },
-    {
-        "name":"Zombie Pizza",
-        "link":"https://jakeliv.itch.io/zombie-pizza",
-        "shortDescription":"",
-        "description":""
-
-
-    },
-    {
-        "name":"TEMPLATE",
-        "link":"",
-        "shortDescription":"",
-        "description":""
-        
+    "sections": [],
+    "images": {
+      "card": "python.512x509.png",
+      "banner": "javaParse.png"
     }
-
+  },
+  {
+    "name": "Supernova",
+    "link": "https://jakeliv.itch.io/supernova",
+    "linkIcon": "itchio",
+    "shortDescription": "A visual novel game-jam game about the last few days of a gas station employee on one of Mar's moons.",
+    "description": "Supernova was created for a 2 week gamejam hosted by PigSquad with a narrative theme, and a Doomsday topic. The team came together fairly fast, and we had 2 artists, 2 writers, a UX/UI designer, and a Composer/Sound designer. I took the role as the lead programmer and was responsible for the game's architecture, and the implementation of the game's systems and user interfaces. \n\nThe game was created in a self-made visual-novel tool I created in Unity, which included a custom dialogue system, and script loading mechanism for quick refreshes when the writers had updated the script.",
+    "points": [
+      "Developed a custom visual novel tool in Unity",
+      "Implemented a custom dialogue system",
+      "Created a script loading mechanism for quick script updates"
+    ],
+    "project_details": {
+      "tools": ["Unity", "Krita"],
+      "languages": ["C#"],
+      "role": "Game Programmer",
+      "team_size": 7,
+      "description": "Supernova is a hybrid between a point-and-click and a visual novel with inspiration from games like Coffee Talk.  You are playing as Dmi, a gas station employee on Mars’ moon. The solar system is reaching its end, and a supernova will wipe out everything in three days. You’re clocking in. Most people have relocated already, but a few people are still around. Who will you meet in those last three days?"
+    },
+    "sections": [],
+    "images": {
+      "card": "background.png",
+      "banner": "ShopBack.png",
+      "icon": "flubber.png"
+    }
+  },
+  {
+    "name": "Zombie Pizza",
+    "link": "https://jakeliv.itch.io/zombie-pizza",
+    "linkIcon": "itchio",
+    "shortDescription": "A visual novel game-jam game about a pizza delivery driver who comes back to find his killer",
+    "description": "",
+    "points": [
+      "Designed and developed a visual novel game in Unity",
+      "Crafted an engaging storyline with suspenseful elements",
+      "Designed a spreadsheet for easy script writing and importing"
+    ],
+    "project_details": {
+      "tools": ["Unity", "Krita"],
+      "languages": ["C#"],
+      "role": "Game Programmer",
+      "team_size": 9,
+      "description": "Zombie Pizza is a comical murder mystery visual novel where you play as Omar, a pizza delivery driver on a mission to find out who killed him. Freshly resurrected by his Spooky Grimmother, Omar has only 3 days to discover who threw the pizza box that snapped his neck before his body becomes a zombie and his soul is trapped as a ghost!\n      Will he figure out the truth or will his body lock up due to the rigor mortis before he’s able to?"
+    },
+    "sections": [],
+    "images": { "card": "menu.png", "banner": "menu.png" }
+  },
+  {
+    "name": "TEMPLATE",
+    "link": "",
+    "linkIcon": "",
+    "shortDescription": "",
+    "header": "",
+    "description": "",
+    "sections": [
+      {
+        "name": "Introduction",
+        "image_left": "",
+        "image_right": "",
+        "image_top": "",
+        "image_bottom": "",
+        "description": ""
+      },
+      "..."
+    ],
+    "points": [""],
+    "scaleToFit": "true",
+    "project_details": {
+      "tools": [],
+      "languages": [],
+      "role": "",
+      "team_size": ""
+    },
+    "images": {
+      "card": "",
+      "banner": "",
+      "icon": "",
+      "gallery": []
+    }
+  }
 ]
