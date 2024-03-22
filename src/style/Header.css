@@ -47,7 +47,7 @@
 
 .header-line {
   margin-top: -10px; /* Reduce the space between the line and the elements above it */
-  margin-right: -46px;
+  margin-right: calc(min(calc(-50vw + 50%), -46px)); /* Limit margin-right to the minimum of -46px and half of the viewport width */
   border: none; /* Remove default border */
   background: linear-gradient(to right, #fff, rgba(128, 128, 128, 0)); /* Create gradient effect */
   height: 2px; /* Set height of the line */

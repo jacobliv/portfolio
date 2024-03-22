@@ -1,9 +1,10 @@
 /* App.css */
 body {
-  background-color: #111; /* Dark background color for the entire page */
+  background: linear-gradient(#0d0f1c, #111); /* Vertical gradient from dark color to dark bluish gray */
   color: #fff; /* White text color */
   font-family: Consolas, monospace; /* Use Consolas font */
-
+  background-repeat: no-repeat; /* Do not repeat the background */
+  background-attachment:fixed; /* Keep the background fixed */
 }
 
 .app {
