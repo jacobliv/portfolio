@@ -6,7 +6,7 @@ import AboutMe from "./AboutMe";
 import Projects from "./Projects";
 import Contact from "./Contact";
 import Footer from "./Footer";
-import ProjectDetailPage from "./ProjectDetailPage";
+import ProjectDetailPage from "./ProjectDetailPage/ProjectDetailPage";
 
 import "./style/App.css"; // Import CSS file for styling
 

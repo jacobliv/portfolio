@@ -1,0 +1,105 @@
+{
+  "name": "Jacob Livingston",
+  "nickname": "Jake",
+  "photo": "",
+  "hobbies": [
+    {
+      "category": "Exercise",
+      "examples": ["Walking", "Calisthenics", "Weight Training"]
+    },
+    {
+      "category": "Audio Media",
+      "examples": ["Audiobooks", "Podcasts", "Music"]
+    },
+    {
+      "category": "Cooking",
+      "examples": ["Expanding culinary skills"]
+    },
+    {
+      "category": "Music",
+      "examples": ["Singing", "Playing piano"]
+    },
+    {
+      "category": "Video Games",
+      "examples": ["Sandbox games", "RPG/Survival", "Modded Minecraft"]
+    },
+    {
+      "category": "Groups",
+      "examples": [
+        "Unity Game Dev group",
+        "Local Board Gaming group",
+        "Pig Squad"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "category": "TV Shows",
+      "examples": ["Dark", "1899", "Adventure Time", "Gravity Falls"]
+    },
+    {
+      "category": "Music",
+      "examples": ["Imagine Dragons", "Bon Iver", "Sam Smith"]
+    },
+    {
+      "category": "Local History and Current Events",
+      "examples": ["Portland's history", "local social issues"]
+    },
+    {
+      "category": "Social Justice",
+      "examples": ["LGBTQIA+ rights", "social justice topics"]
+    },
+    {
+      "category": "Technology",
+      "examples": ["AI", "VR", "sustainable practices"]
+    },
+    {
+      "category": "Outdoor Activities",
+      "examples": ["Camping", "hiking"]
+    },
+    {
+      "category": "Crafts",
+      "examples": ["Woodworking", "pottery"]
+    },
+    {
+      "category": "DIY and Home Improvement",
+      "examples": ["Transformation processes", "new techniques"]
+    }
+  ],
+  "background": "I live in Portland, Oregon, after spending my earlier years in Michigan and Illinois and going to college in Utah. My life's a mix of work, hobbies, and family. I'm into technology and coding, but I also make time for cooking and music.\n\nBeing a dad to a young toddler is a big part of my life. It's rewarding, fun, and keeps me on my toes. Balancing fatherhood with my personal interests and work is important to me.\n\nI've grown to love cooking, especially making dishes like cottage pie and baked salmon with roasted potatoes. It's a nice change of pace from the tech stuff.\n\nMusic has always been there for me, from playing piano and singing to joining choirs and being part of musicals in high school. It's something I still enjoy and find meaningful.\n\nI used to stream on Twitch and really liked the community aspect. I've stepped back for now but plan to get back into it because I miss the interaction.\n\nCoding isn't just a part of my job—it's a passion that extends into my free time, where I explore a variety of projects and challenges. Whether it's developing new software, tinkering with game development, or automating tasks, I'm always looking to push my skills and try new things.",
+  "values": [
+    {
+      "valueName": "Honesty and Candidness",
+      "description": "I value clear, transparent communication and dislike when information is withheld."
+    },
+    {
+      "valueName": "Success and Completion",
+      "description": "I measure success by the completion and the utility or appreciation of my work."
+    },
+    {
+      "valueName": "Community Involvement",
+      "description": "I aspire to support and be more available to my family, friends, neighbors, and those in need."
+    },
+    {
+      "valueName": "Personal Development and Continuous Learning",
+      "description": "I place high importance on my growth and the continuous acquisition of knowledge."
+    },
+    {
+      "valueName": "Conflict Resolution",
+      "description": "I prioritize disarming tensions and encouraging open dialogue to resolve disagreements."
+    },
+    {
+      "valueName": "Positive Impact",
+      "description": "I aim to positively influence my close ones and the community, not seeking personal glory."
+    },
+    {
+      "valueName": "Prioritization and Balance",
+      "description": "I balance my priorities across work, personal interests, and relationships, adapting as needed."
+    },
+    {
+      "valueName": "Empathy",
+      "description": "I increasingly consider the perspectives and experiences of others, especially in societal issues."
+    }
+  ],
+  "fun_facts": []
+}
